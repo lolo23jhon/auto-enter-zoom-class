@@ -1,0 +1,60 @@
+{
+    "courses": {
+        "ANA_SIS_ELEC": {
+            "url": "https://itesm.zoom.us/j/6159480485",
+            "sessions": {
+                "tuesday": {
+                    "start": "7:00",
+                    "finish": "11:00"
+                },
+                "wednesday": {
+                    "start": "11:00",
+                    "finish": "15:00"
+                },
+                "thursday": {
+                    "start": "7:00",
+                    "finish": "11:00"
+                }
+            }
+        },
+        "MOD_MAT_INT": {
+            "url": "https://itesm.zoom.us/j/589137739",
+            "sessions": {
+                "monday": {
+                    "start": "9:00",
+                    "finish": "11:00"
+                },
+                "thursday": {
+                    "start": "9:00",
+                    "finish": "11:00"
+                }
+            }
+        },
+        "ANA_BIO_COM": {
+            "url": "https://itesm.zoom.us/my/biologiacomputacionalsn",
+            "sessions": {
+                "monday": {
+                    "start": "7:00",
+                    "finish": "9:00"
+                },
+                "thursday": {
+                    "start": "7:00",
+                    "finish": "9:00"
+                }
+            }
+        },
+        "BIO_SUS": {
+            "url": "https://itesm.zoom.us/my/itza.baqueiro",
+            "sessions": {
+                "tuesday": {
+                    "start": "7:00",
+                    "finish": "13:00"
+                },
+                "friday": {
+                    "start": "7:00",
+                    "finish": "13:00"
+                }
+            }
+        }
+    }
+}
