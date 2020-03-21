@@ -69,6 +69,7 @@ def main():
                     os.system(cmd)
                     return
     print("You do not have class right now.")
+    input("Press Enter to exit.")
 
 
 if __name__ == "__main__":
