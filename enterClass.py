@@ -1,6 +1,7 @@
 import json
 import os
 from datetime import datetime
+from time import sleep
 
 
 DAYS_WEEK = {
@@ -48,6 +49,7 @@ def is_it_time(t_start, t_finish, t_datetime=datetime.now()):
 
 
 def main():
+    DELAY_SECONDS = 1.2
     data = dict()
     with open("courses.json") as f:
         data = json.load(f)
@@ -65,6 +67,8 @@ def main():
                     print("Joining your class {}.".format(course_name))
                     print("Start:\t{}\nFinish:\t{}".format(
                         time_range["start"], time_range["finish"]))
+                    if DELAY_SECONDS > 0:
+                        sleep(DELAY_SECONDS)
                     cmd = "start {}".format(course["url"])
                     os.system(cmd)
                     return
