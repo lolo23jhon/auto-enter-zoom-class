@@ -1,4 +1,3 @@
-caepsdt#434
 {
     "courses": {
         "ANA_SIS_ELEC": {
@@ -18,8 +17,8 @@ caepsdt#434
                 }
             }
         },
-        "MOD_MAT_INT": {
-            "url": "https://itesm.zoom.us/j/589137739",
+        "STATISTICS": {
+            "url": "https://itesm.zoom.us/j/91968720879",
             "sessions": {
                 "monday": {
                     "start": "9:00",
@@ -32,7 +31,7 @@ caepsdt#434
             }
         },
         "OOP": {
-           "url": "https://itesm.zoom.us/j/9265025767",
+            "url": "https://itesm.zoom.us/j/9265025767",
             "sessions": {
                 "monday": {
                     "start": "7:00",
