@@ -1,7 +1,7 @@
 {
     "courses": {
-        "ANA_SIS_ELEC": {
-            "url": "https://itesm.zoom.us/j/6159480485",
+        "ELECTROMAGNETISM": {
+            "url": "https://itesm.zoom.us/j/5708460168",
             "sessions": {
                 "tuesday": {
                     "start": "7:00",
@@ -47,11 +47,11 @@
             "url": "https://itesm.zoom.us/my/itza.baqueiro",
             "sessions": {
                 "tuesday": {
-                    "start": "7:00",
+                    "start": "11:00",
                     "finish": "13:00"
                 },
                 "friday": {
-                    "start": "7:00",
+                    "start": "11:00",
                     "finish": "13:00"
                 }
             }
