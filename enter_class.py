@@ -83,9 +83,9 @@ def enter_class(course_info_json):
                         sleep(DELAY_SECONDS)
                                         
                     return
-    print("==============================================")
-    print("You do not have class right now.")
-    print("==============================================\n")
+    print("+--------------------------------------------+")
+    print("|      You do not have class right now.      |")
+    print("+--------------------------------------------+\n")
     input("Press Enter to exit.")
 
 

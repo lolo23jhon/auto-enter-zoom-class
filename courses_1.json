@@ -3,10 +3,6 @@
         "AN_EC_DIF": {
             "url": "https://itesm.zoom.us/my/julioavila",
             "sessions": {
-                "saturday":{
-                    "start": "20:00",
-                    "finish":"21:00"
-                },
                 "monday": {
                     "start": "14:00",
                     "finish": "18:00"
