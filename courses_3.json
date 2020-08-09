@@ -1,0 +1,60 @@
+{
+    "courses": {
+        "REQUIREMENTS": {
+            "url": "https://mock_url",
+            "sessions": {
+                "monday": {
+                    "start": "14:00",
+                    "finish": "16:00"
+                },
+                "thursday": {
+                    "start": "14:00",
+                    "finish": "16:00"
+                }
+            }
+        },
+        "DATA_STRUCT":{
+            "url": "https://mock_url",
+            "sessions": {
+                "monday": {
+                    "start": "16:00",
+                    "finish": "18:00"
+                },
+                "thursday": {
+                    "start": "16:00",
+                    "finish": "18:00"
+                }
+            }
+        },
+        "SOC_DER_HUM":{
+            "url": "https://mock_url",
+            "sessions": {
+                "tuesday": {
+                    "start": "11:00",
+                    "finish": "13:00"
+                },
+                "friday": {
+                    "start": "11:00",
+                    "finish": "13:00"
+                }
+            }
+        },
+        "IOT":{
+            "url": "https://mock_url",
+            "sessions": {
+                "tuesday": {
+                    "start": "14:00",
+                    "finish": "18:00"
+                },
+                "wednesday": {
+                    "start": "15:00",
+                    "finish": "19:00"
+                },
+                "friday": {
+                    "start": "14:00",
+                    "finish": "18:00"
+                }
+            }
+        }
+    }
+}
