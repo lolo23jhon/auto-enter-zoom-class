@@ -1,14 +1,27 @@
 {
     "courses": {
         "AN_EC_DIF": {
-            "url": "https://itesm.zoom.us/my/julioavila",
+            "url": "https://itesm.zoom.us/j/9991731981",
             "sessions": {
                 "monday": {
                     "start": "14:00",
-                    "finish": "18:00"
+                    "finish": "16:00"
                 },
                 "thursday": {
                     "start": "14:00",
+                    "finish": "16:00"
+                }
+            }
+        },
+        "DATA_STRUCT": {
+            "url": "https://itesm.zoom.us/j/2356305363",
+            "sessions": {
+                "monday": {
+                    "start": "16:00",
+                    "finish": "18:00"
+                },
+                "thursday": {
+                    "start": "16:00",
                     "finish": "18:00"
                 }
             }
@@ -31,7 +44,7 @@
             }
         },
         "GEN_SOC": {
-            "url": "https://mock_url",
+            "url": "https://itesm.zoom.us/j/9941254240",
             "sessions": {
                 "tuesday": {
                     "start": "11:00",
