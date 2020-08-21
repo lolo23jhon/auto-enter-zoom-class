@@ -55,6 +55,15 @@
                     "finish": "13:00"
                 }
             }
-        }
+        },
+		"CAMPUS_VIRTUAL":{
+			"url": "mock",
+			"sessions":{
+				"friday": {
+					"start": "13:00",
+					"finish":"15:00"
+				}
+			}
+		}
     }
 }
