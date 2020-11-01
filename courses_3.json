@@ -1,60 +1,67 @@
 {
     "courses": {
-        "REQUIREMENTS": {
-            "url": "https://mock_url",
+        "SOFT_REQ": {
+            "url": "https://itesm.zoom.us/j/6558447774",
             "sessions": {
                 "monday": {
                     "start": "14:00",
-                    "finish": "16:00"
+                    "finish": "15:59"
                 },
                 "thursday": {
                     "start": "14:00",
-                    "finish": "16:00"
+                    "finish": "15:59"
                 }
             }
         },
         "DATA_STRUCT":{
-            "url": "https://mock_url",
+            "url": "https://itesm.zoom.us/j/2356305363",
             "sessions": {
                 "monday": {
                     "start": "16:00",
-                    "finish": "18:00"
+                    "finish": "17:59"
                 },
                 "thursday": {
                     "start": "16:00",
-                    "finish": "18:00"
+                    "finish": "17:59"
                 }
             }
         },
         "SOC_DER_HUM":{
-            "url": "https://mock_url",
+            "url": "https://itesm.zoom.us/j/9941254240",
             "sessions": {
                 "tuesday": {
                     "start": "11:00",
-                    "finish": "13:00"
+                    "finish": "12:59"
                 },
                 "friday": {
                     "start": "11:00",
-                    "finish": "13:00"
+                    "finish": "12:59"
                 }
             }
         },
         "IOT":{
-            "url": "https://mock_url",
+            "url": "https://itesm.zoom.us/j/3718117972",
             "sessions": {
                 "tuesday": {
                     "start": "14:00",
-                    "finish": "18:00"
+                    "finish": "17:59"
                 },
                 "wednesday": {
                     "start": "15:00",
-                    "finish": "19:00"
+                    "finish": "18:59"
                 },
                 "friday": {
                     "start": "14:00",
-                    "finish": "18:00"
+                    "finish": "17:59"
                 }
             }
-        }
+        },
+		"VirtualCampusAGP":{
+			"utl": "https://itesm.zoom.us/j/paula.takashime",
+			"friday": {
+                "start": "13:00",
+                "finish": "13:59"
+            }
+		}
     }
 }

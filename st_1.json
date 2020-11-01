@@ -1,0 +1,29 @@
+{
+    "courses": {
+		"LID_MULT_GEN":{
+			"url": "https://itesm.zoom.us/j/93527177593",
+			"sessions":{
+				"monday": {
+					"start": "7:30",
+					"finish":"13:00"
+				},
+				"tuesday": {
+					"start": "7:30",
+					"finish":"13:00"
+				},
+				"wemesday": {
+					"start": "7:30",
+					"finish":"13:00"
+				},
+				"thursday": {
+					"start": "7:30",
+					"finish":"13:00"
+				},
+				"friday": {
+					"start": "7:30",
+					"finish":"13:00"
+				}
+			}
+		}
+    }
+}

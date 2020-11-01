@@ -2,7 +2,7 @@ import json
 import os
 from datetime import datetime
 from time import sleep
-from terminaltables import AsciiTable
+#from terminaltables import AsciiTable
 
 
 DAYS_WEEK = {
@@ -69,13 +69,14 @@ def enter_class(course_info_json):
                 if is_time:
                     table_data = [["Course", "Start", "Finish"],
                                     [course_name, time_range["start"], time_range["finish"]]]
-                    table = AsciiTable(table_data)
+                    """
+					table = AsciiTable(table_data)
                     print(table.table)
                     """
                     print("Joining your class {}.".format(course_name))
                     print("Start:\t{}\nFinish:\t{}".format(
                         time_range["start"], time_range["finish"]))
-                    """
+                    
                     cmd = "start {}".format(course["url"])
                     os.system(cmd)
                     
@@ -90,6 +91,4 @@ def enter_class(course_info_json):
 
 
 if __name__ == "__main__":
-    enter_class("courses_1.json")
-
-# TODO: Change zoom urls in json files.
+    enter_class("courses_3.json")

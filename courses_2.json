@@ -1,7 +1,7 @@
 {
     "courses": {
         "MOD_SIS_MIN": {
-            "url": "https://mock_url",
+            "url": "https://itesm.zoom.us/j/6558447774",
             "sessions": {
                 "monday": {
                     "start": "14:00",
@@ -14,7 +14,7 @@
             }
         },
         "DATA_STRUCT":{
-            "url": "https://mock_url",
+            "url": "https://itesm.zoom.us/j/2356305363",
             "sessions": {
                 "monday": {
                     "start": "16:00",
@@ -27,7 +27,7 @@
             }
         },
         "SOC_DER_HUM":{
-            "url": "https://mock_url",
+            "url": "https://itesm.zoom.us/j/9941254240",
             "sessions": {
                 "tuesday": {
                     "start": "11:00",
@@ -40,7 +40,7 @@
             }
         },
         "IOT":{
-            "url": "https://mock_url",
+            "url": " https://itesm.zoom.us/j/3718117972",
             "sessions": {
                 "tuesday": {
                     "start": "14:00",
